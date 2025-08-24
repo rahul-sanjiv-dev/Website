@@ -38,6 +38,7 @@ export const achievements = [
   { year: '2024', title: 'Finalist — Thalir Innovation Fest', detail: 'Traffic-flow optimization prototype; qualified for nationals.' },
   { year: '2025', title: '3rd Prize — IGNITIA', detail: 'Awarded for SafeRescue AI (road-safety innovation).' },
   { year: '2024', title: 'State Winner & National Qualifier — G20 Science Expo' }
+  { year: '2022', title: 'State Winner & National Qualifier — G20 Science Expo' }
 ]
 
 export const blog = [
